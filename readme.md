@@ -16,10 +16,10 @@ E-bank es una aplicación de banco orientada a un publico millenials, cuya carac
 Realizamos entrevistas a 10 usuarios con edades entre 20 a 30 años que constituían la generación de millenials.
 
 ## Sintesis y Definición
+### Problem Statement
 Nos guiamos en estos diferentes puntos para definir el problema:
 
 * El Usuario no quería ir a hacer filas al banco ya que pierde tiempo y siempre está lleno
-
 * El Usuario quería una interfaz que fuera fácil para su utilización
 * El Usuario quería una opción que evitara el tener que estar llamando por teléfono
 * El Usuario quería algo que le facilitara el no estar saliendo a su correo para ver las
@@ -27,5 +27,25 @@ Nos guiamos en estos diferentes puntos para definir el problema:
 * El Usuario necesitaba ver su saldo al momento de ingresar al home 
 * El Usuario quiere una interfaz que sea rápida para hacer sus transacciones 
 
+### HMW (¿Cómo podríamos?)
+
+* Cómo podríamos hacer que los usuarios evitarán llamar por teléfono para resolver sus 
+  problemas
+* Cómo podríamos hacer una interfaz rápida y intuitiva para el usuario
+* Cómo podríamos solucionar los problemas de los usuarios fácilmente sin que vayan al 
+  banco a hacer largas filas
+
+### What if? (¿Y si?)
+
+* ¿Y si existiera un chat en donde los usuarios pudieran hacer todas sus consultas sin la 
+  necesidad de estar llamando por teléfono? 
+* ¿Y si nuestra interfaz fuera intuitiva para el usuario para poder hacer sus 
+  transacciones,pagar cuentas,ver su crédito etc?
+* ¿Y si las notificaciones llegarán directamente directamente a una sección de correo sin 
+  tener que abrir tu correo externamente? 
+* ¿Y si el saldo estuviera siempre en la home para que el usuario siempre estuviera 
+  viendo su saldo disponible? 
+
+## Ideación
 
 
