@@ -52,7 +52,7 @@ Decidimos enfocarnos en usuarios cuyo principal problema era resolver dudas sin 
 
 ## Prototipado
 
-Se Puede ver el prototipo de la aplicación [aplicacion](https://marvelapp.com/30abhhd)
+Se Puede ver el prototipo de la aplicación [aqui](https://marvelapp.com/30abhhd).
 
 ## User Testing
 
