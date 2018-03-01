@@ -12,4 +12,4 @@ E-bank es una aplicación de banco orientada a un publico millenials, cuya carac
 ## Descubrimiento e Investigación
 
 ### User Research:
-Realizamos entrevistas a 10 usuarios
+Realizamos entrevistas a 10 usuarios con edades entre 20 a 30 años que constituían la generación de millenials.
