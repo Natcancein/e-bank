@@ -48,4 +48,23 @@ Nos guiamos en estos diferentes puntos para definir el problema:
 
 ## Ideación
 
+Decidimos enfocarnos en usuarios cuyo principal problema era resolver dudas sin llegar a la línea telefónica o ir al banco de manera presencial, por lo que implementamos un chatbox de ayuda permanente para la resolución de problemas y además para mantenerlos cautivos dentro de la aplicación creamos la sección de mensajes directos, donde llegan notificaciones cuando haya algun movimiento relacionado con los productos del banco, creando una interfaz intuitiva para realizar acciones directas dentro de la propia aplicación.
+
+## Prototipado
+
+Se Puede ver el prototipo de la aplicación [aplicacion](https://marvelapp.com/30abhhd)
+
+## User Testing
+
+Realizamos un testeo a alrededor de 7 personas y fuimos corrigiendo lo siguiente:
+
+* Hacer la transición más amigable cuando se realizan los cambios de pantalla
+* Poder volver atrás cuando estas realizando alguna acción dentro de la aplicación
+* Aumentar el tiempo de las vistas splash para que se pueda leer
+* Generar mayores señas para que el usuario clickeara la sección del chatbox.
+
+
+
+
+
 
