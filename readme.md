@@ -54,7 +54,7 @@ Nos guiamos en estos diferentes puntos para definir el problema:
 Decidimos enfocarnos en usuarios cuyo principal problema era resolver dudas sin llegar a la línea telefónica o ir al banco de manera presencial, por lo que implementamos un chatbox de ayuda permanente para la resolución de problemas y además para mantenerlos cautivos dentro de la aplicación creamos la sección de mensajes directos, donde llegan notificaciones cuando haya algun movimiento relacionado con los productos del banco, creando una interfaz intuitiva para realizar acciones directas dentro de la propia aplicación.
 
 ### Customer Journey Map
-![e-bank](img/journey-map.png)
+![e-bank](img/journey-map.jpg)
 
 ## Prototipado
 
