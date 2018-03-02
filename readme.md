@@ -61,6 +61,7 @@ Decidimos enfocarnos en usuarios cuyo principal problema era resolver dudas sin 
 Se Puede ver el prototipo de la aplicación [aqui](https://marvelapp.com/30abhhd).
 
 ## User Testing
+![e-bank](img/test.jpg)
 
 Realizamos un testeo a alrededor de 7 personas y fuimos corrigiendo lo siguiente:
 
