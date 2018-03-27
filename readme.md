@@ -3,7 +3,7 @@
 E-bank es una aplicación de banco orientada a un publico millenials, cuya característica principal es la transparencia y el contacto directo con el usuario, quien quiere la información inmediata de lo que necesita.
 
 
-![e-bank](img/e-bank.png)
+![e-bank](https://user-images.githubusercontent.com/20954661/37966979-5b172f0c-31a0-11e8-895b-fbc8e4c146ab.png)
 
 ## Nuestro proceso de diseño
 
